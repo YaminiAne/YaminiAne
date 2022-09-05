@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Machine Learning required for building models for data analysis. 
 I am also trying to master Data Structures and Algorithms.
 
-![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/83130336/188502878-370d58f5-a550-4f76-ad6f-c14b5976c6b6.gif)
+   ### ![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/83130336/188502878-370d58f5-a550-4f76-ad6f-c14b5976c6b6.gif)
 
 - 💗 Apart from technical stuff, I also paint and read books (any book suggestions from you would be highly appreciated 😉).
 
