@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yamini Ane</h1>
 <p align='left'>I am a Tech Enthusiast, currently studying my final year of undergraduation.</p>
-<p align='left'>My major is in Electronic and Communication Enginnering and minor's degree in Data Science.</p>
+<p align='left'>My majors are in Electronic and Communication Enginnering and minors degree in Data Science.</p>
 
-- 👀 I’m very inclined towards the field of **DATA SCIENCE**.
-- 🎯 I mostly (almost) do my coding and scripting in Python using Jupyter Notebook. 
-- 📉 I like exploring data and deriving useful stuff out of it. 
-- ✔️ Despite being an Electronics student, my interest in coding and technology 
-   has lead me into taking up various courses and learn Data Science,
-   Machine Learning and Analytics.
-- ⚡ I’m currently learning Machine Learning and Natural Language Processing and 
-   have previously worked on Sentiment Analysis projects.
-- 🔭 I will be more than happy to receive any project recommendations.
-- 💗 Apart from technical stuff, I also paint and read books (any book 
-   suggestions from you would be highly appreciated 😉).
+👀 I’m very inclined towards the field of **DATA SCIENCE**. </br>
+🎯 I mostly (almost) do my coding and scripting in Python using Jupyter Notebook. </br>
+📉 I like exploring data and deriving useful stuff out of it. </br>
+🧠 Currently learning : Natural Language Processing, Machine Learning</br>
+⭐ Previous projects  :
+   * Human Emotion Recognition using Twitter Sentiment Analysis
+   * Case study on Zomato Bangalore Restaurants - Exploratory Data Analysis</p>
+   
+🔭 I will be more than happy to receive any project name suggestions. </br>
+💗 Apart from technical stuff, I also paint and read books (any book </br>
+   recommendations from you would be highly appreciated 😉).
+   
 <!-- - 📝 I regularly write articles on https://www.analyticsvidhya.com/user/Yamini_Ane -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,6 +25,6 @@
 [//]: # src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 [//]: # alt="https://www.linkedin.com/in/yamini-ane-5781b1211/" height="30" width="40" /></a>
 </p>  -->
-<p aling='left'> 📫 You can also reach me at yaminiane21@gmail.com </p>
+<p aling='left'> 📫 You can reach me at yaminiane21@gmail.com </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminiane&label=Profile%20views&color=0e75b6&style=flat" alt="yaminiane" /> </p>
