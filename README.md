@@ -6,11 +6,12 @@
 🎯 I mostly (almost) do my coding and scripting in Python using Jupyter Notebook. </br>
 📉 I like exploring data and deriving useful stuff out of it. </br>
 🧠 Currently learning : Natural Language Processing, Machine Learning</br>
-⭐ Previous projects  :
+⭐ Projects  :
    * Human Emotion Recognition using Twitter Sentiment Analysis
    * Case study on Zomato Bangalore Restaurants - Exploratory Data Analysis</p>
    
-🔭 I will be more than happy to receive any project name suggestions. </br>
+🔭 I will be more than happy to receive any project suggestions :) </br>
+👍 OPEN FOR PROJECT COLLABORATIONS. </br>
 💗 Apart from technical stuff, I also paint and read books (any book </br>
    recommendations from you would be highly appreciated 😉).
    
