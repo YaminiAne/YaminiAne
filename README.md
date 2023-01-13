@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yamini Ane</h1>
-<p align='left'>I am a Tech Enthusiast, currently studying my final year of undergraduation.</p>
+<p align='left'>I am a Data Enthusiast, currently studying my final year of undergraduation.</p>
 <p align='left'>My majors are in Electronic and Communication Enginnering and minors degree in Data Science.</p>
 
 👀 I’m very inclined towards the field of **DATA SCIENCE**. </br>
 🎯 I mostly (almost) do my coding and scripting in Python using Jupyter Notebook. </br>
 📉 I like exploring data and deriving useful stuff out of it. </br>
-🧠 Currently learning : Natural Language Processing, Machine Learning</br>
+🧠 Currently learning : Natural Language Processing, Power BI</br>
 ⭐ Projects  :
    * Human Emotion Recognition using Twitter Sentiment Analysis
    * Case study on Zomato Bangalore Restaurants - Exploratory Data Analysis</p>
