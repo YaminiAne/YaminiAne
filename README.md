@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yamini Ane</h1>
-<p align='left'>I am a Data Enthusiast, currently studying my final year of undergraduation.</p>
+<p align='left'>Grad student at Indiana University, Bloomington</p>
 <p align='left'>My majors are in Electronic and Communication Enginnering and minors degree in Data Science.</p>
 
 👀 I’m very inclined towards the field of **DATA SCIENCE**. </br>
@@ -10,10 +10,6 @@
    * Human Emotion Recognition using Twitter Sentiment Analysis
    * Case study on Zomato Bangalore Restaurants - Exploratory Data Analysis</p>
    
-🔭 I will be more than happy to receive any project suggestions :) </br>
-👍 OPEN FOR PROJECT COLLABORATIONS. </br>
-💗 Apart from technical stuff, I also paint and read books (any book </br>
-   recommendations from you would be highly appreciated 😉).
    
 <!-- - 📝 I regularly write articles on https://www.analyticsvidhya.com/user/Yamini_Ane -->
 
