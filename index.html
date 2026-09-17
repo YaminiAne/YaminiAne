@@ -12,6 +12,7 @@
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%23111111'/%3E%3Ctext x='32' y='41' text-anchor='middle' font-family='monospace' font-size='26' font-weight='600' fill='white'%3EYA%3C/text%3E%3C/svg%3E" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="projects.css" />
+  <link rel="stylesheet" href="mosaic.css" />
   <script src="script.js" defer></script>
 </head>
 <body>
@@ -28,35 +29,23 @@
   </header>
 
   <main id="main">
-    <section class="hero" id="top">
+    <section class="hero" id="top" aria-labelledby="hero-title">
+      <a class="mosaic-tile tile-projects reveal" href="#projects"><span>01</span><strong>selected<br/>projects</strong><b>↘</b></a>
+      <a class="mosaic-tile tile-impact reveal" href="#impact"><span>02</span><strong>measurable<br/>impact</strong><b>↙</b></a>
+      <a class="mosaic-image reveal" href="https://github.com/YaminiAne/CDCC_IndianaToxicWatch" target="_blank" rel="noreferrer" aria-label="Open Indiana Toxicity Watch project">
+        <img src="https://raw.githubusercontent.com/YaminiAne/CDCC_IndianaToxicWatch/main/Story.png" alt="Indiana Toxicity Watch dashboard" />
+        <span>public health × data</span>
+      </a>
       <div class="hero-copy reveal">
-        <p class="eyebrow"><span class="pulse"></span> Business Intelligence · Healthcare Data</p>
-        <h1>I turn complex data into <span>trusted decisions.</span></h1>
-        <p class="hero-text">Business Intelligence Analyst building reliable data pipelines, semantic models, and decision-ready analytics across healthcare and public health.</p>
-        <div class="hero-actions">
-          <a class="button primary" href="#impact">See my impact</a>
-          <a class="button secondary" href="https://github.com/YaminiAne" target="_blank" rel="noreferrer">Explore GitHub <span>↗</span></a>
-        </div>
+        <p class="eyebrow">hello, i’m</p>
+        <h1 id="hero-title">Yamini Ane<span>.</span></h1>
+        <p>Business Intelligence Analyst building reliable data systems for healthcare and public health.</p>
+        <small>scroll or click around ↓</small>
       </div>
-      <div class="signal-card reveal" aria-label="Career impact summary">
-        <div class="signal-head"><span>impact.signal</span><span class="live">LIVE</span></div>
-        <div class="signal-chart" aria-hidden="true">
-          <svg viewBox="0 0 600 220" role="img">
-            <defs><linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#42e8d2" stop-opacity=".35"/><stop offset="1" stop-color="#42e8d2" stop-opacity="0"/></linearGradient></defs>
-            <path class="area" d="M0 190 C55 183 72 165 116 169 S178 142 222 148 S288 112 333 120 S394 88 444 91 S522 36 600 31 L600 220 L0 220Z"/>
-            <path class="line" d="M0 190 C55 183 72 165 116 169 S178 142 222 148 S288 112 333 120 S394 88 444 91 S522 36 600 31"/>
-            <circle cx="600" cy="31" r="6"/>
-          </svg>
-        </div>
-        <div class="signal-metrics">
-          <div><strong>50%</strong><span>faster reporting</span></div>
-          <div><strong>58</strong><span>jurisdictions</span></div>
-          <div><strong>85%</strong><span>report speed gain</span></div>
-        </div>
-      </div>
+      <a class="mosaic-tile tile-career reveal" href="#experience"><span>03</span><strong>professional<br/>story</strong><b>↗</b></a>
+      <a class="mosaic-tile tile-toolkit reveal" href="#toolkit"><span>04</span><strong>technical<br/>toolkit</strong><b>↖</b></a>
+      <a class="mosaic-note reveal" href="https://github.com/YaminiAne" target="_blank" rel="noreferrer"><span>github.com/</span><strong>YaminiAne</strong><b>↗</b></a>
     </section>
-
-    <section class="marquee" aria-label="Core specialties"><div>SQL <i>◆</i> POWER BI <i>◆</i> SNOWFLAKE <i>◆</i> PYTHON <i>◆</i> DATA MODELING <i>◆</i> HEALTHCARE ANALYTICS <i>◆</i> HL7 <i>◆</i> ETL / ELT</div></section>
 
     <section class="section about" id="about">
       <div class="section-label reveal"><span>01</span> Profile</div>
