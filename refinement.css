@@ -3,3 +3,28 @@
 @media(max-width:760px){.site-header{height:64px}.hero{padding-top:3rem}.hero-copy{width:auto}.mosaic-tile,.mosaic-note,.mosaic-image{inset:auto}.page-hero{padding:4.5rem 0 3.5rem}.story-intro{padding:3rem 0}.story-chapter{gap:1.4rem;padding:3rem 0}.metric-card{min-height:330px}.case.featured .case-image{min-height:220px}.recents{grid-template-columns:1fr;gap:1.5rem;padding:4rem 1.25rem}.recent-card{grid-template-columns:1fr}.recent-card img{aspect-ratio:5/4;object-position:center 32%}.resume-summary{padding:1.4rem}.resume-summary>div{grid-template-columns:auto 1fr}.resume-detail{grid-template-columns:1fr;gap:1.5rem}}
 
 .work-hero{padding-bottom:3rem}.work-hero>p{max-width:850px;font-size:1.08rem;line-height:1.75}.work-tags{display:flex;flex-wrap:wrap;gap:.6rem;margin-top:2rem}.work-tags span,.role-stack{border:1px solid #111;padding:.55rem .75rem;font-size:.72rem;letter-spacing:.07em}.signal-strip{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid #111;margin-bottom:5rem}.signal-strip div{padding:1.5rem;border-right:1px solid #111}.signal-strip div:last-child{border-right:0}.signal-strip b{display:block;font-size:clamp(1.65rem,2.8vw,2.7rem);line-height:1}.signal-strip span{display:block;margin-top:.75rem;font-size:.75rem}.work-thesis{padding:4rem 0;border-block:1px solid #111}.work-thesis>span,.section-head>span,.role-kicker{font-size:.72rem;letter-spacing:.12em}.work-thesis h2{max-width:1000px;font-size:clamp(1.65rem,2.8vw,2.7rem);line-height:1.15;font-weight:500}.work-thesis>div{display:grid;grid-template-columns:repeat(3,1fr);gap:2rem;margin-top:3rem}.work-thesis p{line-height:1.65}.role-kicker{margin-bottom:.75rem}.role-stack{display:inline-block;margin-top:1rem;line-height:1.5}.integrated-section{scroll-margin-top:80px;padding:6rem 0;border-top:1px solid #111}.section-head{display:grid;grid-template-columns:.6fr 1.4fr;gap:2rem;align-items:start;margin-bottom:3rem}.section-head h2{font-size:clamp(1.9rem,3.4vw,3.3rem);line-height:1.02;margin:0}.section-head em{font-weight:400}.impact-wall{display:grid;grid-template-columns:repeat(2,1fr);border:1px solid #111}.impact-block{min-height:330px;padding:2rem;border-right:1px solid #111;border-bottom:1px solid #111}.impact-block:nth-child(2n){border-right:0}.impact-block:nth-last-child(-n+2){border-bottom:0}.impact-block b{font-size:clamp(2.7rem,5.2vw,4.7rem);line-height:1}.impact-block h3{font-size:1.2rem;margin-top:2rem}.impact-block p{max-width:480px;line-height:1.65}.capability-grid{display:grid;grid-template-columns:repeat(2,1fr);border-top:1px solid #111}.capability-grid article{padding:2.2rem 0;border-bottom:1px solid #111}.capability-grid article:nth-child(odd){padding-right:2.2rem;border-right:1px solid #111}.capability-grid article:nth-child(even){padding-left:2.2rem}.capability-grid span{font-size:.72rem}.capability-grid h3{font-size:1.2rem}.capability-grid p{line-height:1.7}@media(max-width:760px){.signal-strip{grid-template-columns:repeat(2,1fr)}.signal-strip div:nth-child(2){border-right:0}.signal-strip div:nth-child(-n+2){border-bottom:1px solid #111}.work-thesis>div,.section-head,.impact-wall,.capability-grid{grid-template-columns:1fr}.impact-block,.impact-block:nth-child(2n){min-height:270px;border-right:0;border-bottom:1px solid #111}.impact-block:last-child{border-bottom:0}.capability-grid article:nth-child(odd),.capability-grid article:nth-child(even){padding:2rem 0;border-right:0}.work-tags{gap:.4rem}}
+
+/* Compact typography across all interior pages */
+.page-hero{padding-top:4.5rem;padding-bottom:3.5rem}
+.page-hero h1{max-width:820px;font-size:clamp(2.25rem,3.6vw,3.65rem);line-height:1.08;letter-spacing:-.055em}
+.page-hero>p,.work-hero>p{max-width:760px;font-size:1rem;line-height:1.7}
+.story-intro{max-width:780px;padding:3.25rem 0;font-size:clamp(1.25rem,2vw,1.8rem);line-height:1.5}
+.story-chapter{padding:3rem 0}
+.chapter-copy h2{font-size:clamp(1.35rem,2vw,1.9rem);letter-spacing:-.03em}
+.story-quote{margin:3.5rem 0;font-size:clamp(1.35rem,2.2vw,2rem);letter-spacing:-.025em}
+.work-thesis{padding:3.25rem 0}
+.work-thesis h2{max-width:900px;font-size:clamp(1.55rem,2.5vw,2.45rem);line-height:1.25}
+.section-head h2{font-size:clamp(1.8rem,3vw,2.9rem);line-height:1.12;letter-spacing:-.045em}
+.integrated-section{padding:4.5rem 0}
+.signal-strip b{font-size:clamp(1.7rem,2.8vw,2.8rem)}
+.impact-block b{font-size:clamp(2.5rem,4vw,4rem)}
+.impact-block h3{font-size:1.15rem}
+.capability-grid h3{font-size:1.2rem}
+.work-item h2{font-size:1.3rem}
+.metric-card b{font-size:clamp(2.8rem,4.5vw,4.5rem)}
+.metric-card h2{font-size:1.15rem}
+.tool-list h2,.case h2{font-size:1.15rem}
+.blog-intro h2{font-size:1.5rem}
+.topic-grid h3{font-size:1rem}
+.next-page a{font-size:1rem}
+@media(max-width:760px){.page-hero{padding-top:3.5rem;padding-bottom:3rem}.page-hero h1{font-size:clamp(2rem,8vw,2.8rem)}.story-intro{font-size:1.2rem}.section-head h2{font-size:clamp(1.7rem,7vw,2.35rem)}}
